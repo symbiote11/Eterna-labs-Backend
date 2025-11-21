@@ -12,10 +12,10 @@ A production-ready, high-performance order execution engine built with Node.js a
 
 ## 🔗 Quick Links
 
--  Demo Video: [Watch on YouTube](https://www.youtube.com/watch?v=DeDFly4JD9A)
+-  Demo Video: [Watch on YouTube](https://www.youtube.com/watch?v=6KsTCpcMU8Y)
 -  Live Deployment : https://eterna-backend-production-38e4.up.railway.app
 - * Postman Collection*: [Download here](./postman/collection.json)
-- * GitHub Repository*: https://github.com/Ayush-0404/Eterna-Backend
+- * GitHub Repository*: https://github.com/symbiote11/Eterna-labs-Backend
 - * Final Deliverables*: [View Checklist](./FINAL_SUBMISSION.md)
 ---
 
@@ -611,7 +611,7 @@ Contributions welcome! Please follow these steps:
 ## 📧 Contact
 
 For questions or support, please open an issue on GitHub,
-or contact on ayush22125@iiitd.ac.in
+or contact on rohitkumar.meena.ece22@itbhu.ac.in
 
 ---
 
@@ -625,4 +625,4 @@ or contact on ayush22125@iiitd.ac.in
 - AI tool help taken to fasten the process and have efficient execution.
 ---
 
-**Built with ❤️ by Ayush using TypeScript and Node.js**
+**Built with ❤️ by Rohit using TypeScript and Node.js**
